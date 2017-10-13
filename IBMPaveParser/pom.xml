@@ -71,14 +71,14 @@
     
     <!-- https://mvnrepository.com/artifact/org.codehaus.sonar-plugins/sonar-pdfreport-plugin -->
     
-    <!--
+    
 	<dependency>
    	 	<groupId>org.codehaus.sonar-plugins</groupId>
     	<artifactId>sonar-pdfreport-plugin</artifactId>
     	<version>1.4</version>
 	</dependency>
 
-    -->
+   
     
     
   </dependencies>
