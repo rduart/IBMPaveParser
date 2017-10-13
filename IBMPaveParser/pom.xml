@@ -69,12 +69,13 @@
     	<version>2.5</version>
 	</dependency>
     
-    <!-- https://mvnrepository.com/artifact/org.codehaus.sonar-plugins/sonar-issues-report-plugin -->
+    <!-- https://mvnrepository.com/artifact/org.codehaus.sonar-plugins/sonar-pdfreport-plugin -->
 	<dependency>
-    	<groupId>org.codehaus.sonar-plugins</groupId>
-    	<artifactId>sonar-issues-report-plugin</artifactId>
-    	<version>1.3</version>
+   	 	<groupId>org.codehaus.sonar-plugins</groupId>
+    	<artifactId>sonar-pdfreport-plugin</artifactId>
+    	<version>1.4</version>
 	</dependency>
+
     
     
     
